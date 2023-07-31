@@ -33,3 +33,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+*.log
+*.pyc
+__pycache__/
+*.sqlite3
+
+# Environment
+.env
+.venv
+.fastapi_backend_env
+env/
+venv/
+fastapi_backend_env/
+ENV/
+env.bak/
+venv.bak/
+fastapi_backend_env.bak/
